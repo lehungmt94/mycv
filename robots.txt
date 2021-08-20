@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://lehungmt.mooo.com/sitemap.xml

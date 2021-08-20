@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>Profile CV</title>
+    <link href="https://lehungmt.mooo.com/feed.xml" rel="self" />
+    <link href="https://lehungmt.mooo.com" />
+    <updated>2021-08-20T12:04:49+07:00</updated>
+    <author>
+        <name>Hùng Lê</name>
+    </author>
+    <id>https://lehungmt.mooo.com</id>
+
+    <entry>
+        <title>sấdasdsadsadasd</title>
+        <author>
+            <name>Hùng Lê</name>
+        </author>
+        <link href="https://lehungmt.mooo.com/sadasdsadsadasd.html"/>
+        <id>https://lehungmt.mooo.com/sadasdsadsadasd.html</id>
+
+        <updated>2021-08-20T12:04:49+07:00</updated>
+            <summary>
+                <![CDATA[
+                    asdsadsa dá dsadsa dá
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>asdsadsa dá dsadsa dá</p>
+            ]]>
+        </content>
+    </entry>
+</feed>
