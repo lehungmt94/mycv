@@ -3,29 +3,51 @@
     <title>Profile CV</title>
     <link href="http://lehungmt.mooo.com/feed.xml" rel="self" />
     <link href="http://lehungmt.mooo.com" />
-    <updated>2021-08-20T12:04:49+07:00</updated>
+    <updated>2021-08-20T13:54:09+07:00</updated>
     <author>
         <name>Hùng Lê</name>
     </author>
     <id>http://lehungmt.mooo.com</id>
 
     <entry>
-        <title>sấdasdsadsadasd</title>
+        <title>Thông tin cá nhân</title>
+        <author>
+            <name>Hùng Lê</name>
+        </author>
+        <link href="http://lehungmt.mooo.com/thong-tin-ca-nhan.html"/>
+        <id>http://lehungmt.mooo.com/thong-tin-ca-nhan.html</id>
+
+        <updated>2021-08-20T13:54:09+07:00</updated>
+            <summary>
+                <![CDATA[
+                    fb: fb.com/riosun194 email: lehungmt94@gmail.com số điện thoại: 0359174217
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>fb: <a href="https://fb.com/riosun194">fb.com/riosun194</a><a href="#INTERNAL_LINK#/post/null"></a></p>
+<p>email: <a href="mailto:lehungmt94@gmail.com">lehungmt94@gmail.com</a></p>
+<p>số điện thoại: <a href="tel:0359174217">0359174217</a></p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Hướng dẫn lập trình với STM32</title>
         <author>
             <name>Hùng Lê</name>
         </author>
         <link href="http://lehungmt.mooo.com/sadasdsadsadasd.html"/>
         <id>http://lehungmt.mooo.com/sadasdsadsadasd.html</id>
 
-        <updated>2021-08-20T12:04:49+07:00</updated>
+        <updated>2021-08-20T12:28:34+07:00</updated>
             <summary>
                 <![CDATA[
-                    asdsadsa dá dsadsa dá
+                    Sắp viết rồi nhé
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                <p>asdsadsa dá dsadsa dá</p>
+                <p>Sắp viết rồi nhé</p>
             ]]>
         </content>
     </entry>
