@@ -1,6 +1,6 @@
 {
     "version": "https://jsonfeed.org/version/1",
-    "title": "Profile CV",
+    "title": "Hùng Lê - Profile CV",
     "description": "",
     "home_page_url": "http://lehungmt.mooo.com",
     "feed_url": "http://lehungmt.mooo.com/feed.json",
@@ -12,16 +12,16 @@
         {
             "id": "http://lehungmt.mooo.com/thong-tin-ca-nhan.html",
             "url": "http://lehungmt.mooo.com/thong-tin-ca-nhan.html",
-            "title": "Thông tin cá nhân",
-            "summary": "fb: fb.com/riosun194 email: lehungmt94@gmail.com số điện thoại: 0359174217",
-            "content_html": "<p>fb: <a href=\"https://fb.com/riosun194\">fb.com/riosun194</a><a href=\"#INTERNAL_LINK#/post/null\"></a></p>\n<p>email: <a href=\"mailto:lehungmt94@gmail.com\">lehungmt94@gmail.com</a></p>\n<p>số điện thoại: <a href=\"tel:0359174217\">0359174217</a></p>",
+            "title": "Giới thiệu",
+            "summary": " Kỹ năng công việc: Embedded hardware, Firmware Phần cứng đã từng làm: CC2530 Zigbee, STM32, Esp8266 Phần mềm thành thạo: Alitum, IAR&hellip;",
+            "content_html": "<div class=\"gallery-wrapper gallery-wrapper--wide\"><div class=\"gallery\"  data-is-empty=\"false\" data-columns=\"1\"><center><a href=\"http://lehungmt.mooo.com/media/posts/2/gallery/116793378_2777112029196280_2322593398527665453_n.jpg\" data-size=\"1334x1334\"><img loading=\"lazy\" src=\"http://lehungmt.mooo.com/media/posts/2/gallery/116793378_2777112029196280_2322593398527665453_n-thumbnail.jpg\" alt=\"\" width=\"320px\" height=\"320px\"></a></center></div></div>\n<p>Kỹ năng công việc: Embedded hardware, Firmware<br>Phần cứng đã từng làm: CC2530 Zigbee, STM32, Esp8266<br>Phần mềm thành thạo: Alitum, IAR<br>Kỹ năng lập trình: C/C++, Linux, C#<br>Kinh nghiệm thực chiến với các hệ điều hành nhúng: Linux, Free RTOS, UCOS II</p>\n<p><strong>Thông tin liên hệ</strong></p>\n<ol>\n<li><strong>Facebook</strong>: <a href=\"https://fb.com/riosun194\">fb.com/riosun194</a><a href=\"#INTERNAL_LINK#/post/null\"></a></li>\n<li><strong>Email</strong>: <a href=\"mailto:lehungmt94@gmail.com\">lehungmt94@gmail.com</a></li>\n<li><strong>Số điện thoại  &amp; Zalo</strong>: <a href=\"tel:0359174217\">0359174217</a></li>\n</ol>",
             "author": {
                 "name": "Hùng Lê"
             },
             "tags": [
             ],
             "date_published": "2021-08-20T13:03:22+07:00",
-            "date_modified": "2021-08-20T13:54:09+07:00"
+            "date_modified": "2021-08-20T22:33:06+07:00"
         },
         {
             "id": "http://lehungmt.mooo.com/sadasdsadsadasd.html",
